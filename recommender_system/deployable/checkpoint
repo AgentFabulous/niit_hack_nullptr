@@ -1,0 +1,2 @@
+model_checkpoint_path: "tensorrec_session.cpkt"
+all_model_checkpoint_paths: "tensorrec_session.cpkt"

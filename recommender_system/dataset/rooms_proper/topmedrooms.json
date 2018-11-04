@@ -1,0 +1,329 @@
+{"ID": "", "room_id": "ID", "room_name": "ROOM NAME", "locality": "LOCALITY", "region": "REGION", "price": "PRICE", "ratings": "ratings"}
+{"ID": "0", "room_id": "153", "room_name": "MedRooms Premium 069 Patel Nagar", "locality": "Metro Pillar No. 162", "region": "Delhi", "price": "4499.0", "ratings": "5"}
+{"ID": "1", "room_id": "313", "room_name": "MedRooms  258 Karol Bagh Metro Station 4", "locality": "Karol Bagh", "region": "Delhi", "price": "1399.0", "ratings": "5"}
+{"ID": "2", "room_id": "121", "room_name": "MedRooms  676 Safdarjung Enclave 2", "locality": "B Block, Safdurjung Enclave", "region": "Delhi", "price": "3449.0", "ratings": "5"}
+{"ID": "3", "room_id": "227", "room_name": "MedRooms Homes 508 G Block Saket", "locality": "Saket", "region": "Delhi", "price": "1449.0", "ratings": "5"}
+{"ID": "4", "room_id": "208", "room_name": "MedRooms  108 Near Karol Bagh Metro Station 1", "locality": "Karol Bagh", "region": "Delhi", "price": "1199.0", "ratings": "5"}
+{"ID": "5", "room_id": "230", "room_name": "MedRooms Homes 318 Kalkaji E Block", "locality": "Kalkaji", "region": "Delhi", "price": "2099.0", "ratings": "5"}
+{"ID": "6", "room_id": "233", "room_name": "MedRooms Apartments 202 Saket Extension", "locality": "Near Malkhan Singh Marg, Street no.16", "region": "Delhi", "price": "1199.0", "ratings": "5"}
+{"ID": "7", "room_id": "205", "room_name": "MedRooms Premium 137 Dwarka Sector 12", "locality": "Dwarka", "region": "Delhi", "price": "3749.0", "ratings": "5"}
+{"ID": "8", "room_id": "54", "room_name": "MedRooms  484 IGI Airport Hotel", "locality": "NH8", "region": "Delhi", "price": "2599.0", "ratings": "5"}
+{"ID": "9", "room_id": "142", "room_name": "MedRooms  506 GK 1 Market", "locality": "Greater Kailash 1", "region": "Delhi", "price": "5099.0", "ratings": "5"}
+{"ID": "10", "room_id": "22", "room_name": "MedRooms  457 Azadpur Mandi Extension", "locality": "Adarsh Nagar", "region": "Delhi", "price": "2499.0", "ratings": "5"}
+{"ID": "11", "room_id": "310", "room_name": "MedRooms Premium 155 Safdarjung", "locality": "Green Park Main", "region": "Delhi", "price": "3699.0", "ratings": "5"}
+{"ID": "12", "room_id": "170", "room_name": "MedRooms  585 Near Sector 10 Metro Dwarka", "locality": "Sector 10 Dwarka, In front of metro station", "region": "Delhi", "price": "3599.0", "ratings": "5"}
+{"ID": "13", "room_id": "28", "room_name": "MedRooms  144 CR Park", "locality": "Outer Ring Road", "region": "Delhi", "price": "2899.0", "ratings": "5"}
+{"ID": "14", "room_id": "305", "room_name": "MedRooms  385 Karol Bagh 12A/24", "locality": "Saraswati Marg, West Extension Area, Karol Bagh", "region": "Delhi", "price": "1799.0", "ratings": "5"}
+{"ID": "15", "room_id": "39", "room_name": "MedRooms  329 8575 Arakashan Road", "locality": "Arakashan Road", "region": "Delhi", "price": "1999.0", "ratings": "5"}
+{"ID": "16", "room_id": "239", "room_name": "MedRooms Premium 189 GK 1 R Block", "locality": "Greater Kailash Part - 1", "region": "Delhi", "price": "3949.0", "ratings": "5"}
+{"ID": "17", "room_id": "40", "room_name": "MedRooms  491 Mahipalpur NH8", "locality": "National Highway, NH8", "region": "Delhi", "price": "2249.0", "ratings": "5"}
+{"ID": "18", "room_id": "25", "room_name": "MedRooms Homes 380 GTB Nagar", "locality": "Kingsaway", "region": "Delhi", "price": "2499.0", "ratings": "5"}
+{"ID": "19", "room_id": "21", "room_name": "MedRooms  118 Vasant Vihar", "locality": "Vasant vihar", "region": "Delhi", "price": "3549.0", "ratings": "5"}
+{"ID": "20", "room_id": "41", "room_name": "MedRooms  194 Next To IGI Airport Corporate Special", "locality": "Kapashera Extension, Bijwasan Road", "region": "Delhi", "price": "2499.0", "ratings": "5"}
+{"ID": "21", "room_id": "43", "room_name": "MedRooms  212 Hauz Khas", "locality": "Panchsheel Park South", "region": "Delhi", "price": "1899.0", "ratings": "5"}
+{"ID": "22", "room_id": "34", "room_name": "MedRooms  613 Kirti Nagar-B&B", "locality": "Kirti Nagar", "region": "Delhi", "price": "2049.0", "ratings": "5"}
+{"ID": "23", "room_id": "11", "room_name": "MedRooms  689 Indira Gandhi International Airport", "locality": "Road No 1, Mahipalpur", "region": "Delhi", "price": "1664.0", "ratings": "5"}
+{"ID": "24", "room_id": "167", "room_name": "MedRooms Elite 557 Panchsheel Enclave", "locality": "Panchshila Park", "region": "Delhi", "price": "5649.0", "ratings": "5"}
+{"ID": "25", "room_id": "328", "room_name": "MedRooms  222 Karol Bagh Metro Station 3", "locality": "Karol Bagh", "region": "Delhi", "price": "1949.0", "ratings": "5"}
+{"ID": "26", "room_id": "186", "room_name": "MedRooms Premium 129 Dwarka Sector 7", "locality": "Dwarka", "region": "Delhi", "price": "3799.0", "ratings": "5"}
+{"ID": "27", "room_id": "14", "room_name": "MedRooms Premium 160 Saket Metro Station", "locality": "Saket", "region": "Delhi", "price": "4299.0", "ratings": "5"}
+{"ID": "28", "room_id": "8", "room_name": "MedRooms  696 NH8 Mahipalpur", "locality": "Road 1, Mahipalpur", "region": "Delhi", "price": "1664.0", "ratings": "5"}
+{"ID": "29", "room_id": "6", "room_name": "MedRooms Premium 210 Lodhi Road", "locality": "Sunder Nagar", "region": "Delhi", "price": "6099.0", "ratings": "5"}
+{"ID": "30", "room_id": "210", "room_name": "MedRooms Premium 239 Near Rajendra Nagar Metro Station", "locality": "New Rajinder Nagar", "region": "Delhi", "price": "3349.0", "ratings": "5"}
+{"ID": "31", "room_id": "297", "room_name": "MedRooms  293 Jhandewalan Metro Station 3", "locality": "Karol Bagh", "region": "Delhi", "price": "1349.0", "ratings": "5"}
+{"ID": "32", "room_id": "125", "room_name": "MedRooms  547 Paschim Vihar 2", "locality": "Paschim Enclave, Nh-10", "region": "Delhi", "price": "2999.0", "ratings": "5"}
+{"ID": "33", "room_id": "278", "room_name": "MedRooms  090 CR Park Outer Ring Road", "locality": "CR Park", "region": "Delhi", "price": "1899.0", "ratings": "5"}
+{"ID": "34", "room_id": "51", "room_name": "MedRooms Premium 052 Jasola Apollo", "locality": "Kalindi Kunj Road", "region": "Delhi", "price": "3249.0", "ratings": "5"}
+{"ID": "35", "room_id": "98", "room_name": "MedRooms  266 7A/36 Channa Market Karol Bagh", "locality": "Karol Bagh", "region": "Delhi", "price": "1699.0", "ratings": "5"}
+{"ID": "36", "room_id": "96", "room_name": "MedRooms  596 Main Bazaar Paharganj Gali No 1", "locality": "Main Bazar, 6 Tooti Chowk", "region": "Delhi", "price": "1299.0", "ratings": "5"}
+{"ID": "37", "room_id": "135", "room_name": "MedRooms Homes 330 New Friends Colony", "locality": "Friends Colony East", "region": "Delhi", "price": "3999.0", "ratings": "5"}
+{"ID": "38", "room_id": "260", "room_name": "MedRooms Homes 558 Chattarpur Near Tivoli", "locality": "Next To Primary School, Satbari Chattarpur", "region": "Delhi", "price": "2149.0", "ratings": "5"}
+{"ID": "39", "room_id": "91", "room_name": "MedRooms  268 Gali Hari Mandir Paharganj", "locality": "Paharganj", "region": "Delhi", "price": "1249.0", "ratings": "5"}
+{"ID": "40", "room_id": "90", "room_name": "MedRooms  396 Nirman Vihar Metro", "locality": "Near Nirman Vihar Metro Station", "region": "Delhi", "price": "2449.0", "ratings": "5"}
+{"ID": "41", "room_id": "87", "room_name": "MedRooms  297 PVR Saket", "locality": "Saket", "region": "Delhi", "price": "3449.0", "ratings": "5"}
+{"ID": "42", "room_id": "200", "room_name": "MedRooms  174 New Delhi Railway Station 2", "locality": "Ram Nagar", "region": "Delhi", "price": "1799.0", "ratings": "5"}
+{"ID": "43", "room_id": "199", "room_name": "MedRooms  078 Ring Road GK1", "locality": "Near Nehru Place", "region": "Delhi", "price": "4199.0", "ratings": "5"}
+{"ID": "44", "room_id": "154", "room_name": "MedRooms  524 International Airport Delhi", "locality": "A Block, N.H.8, Mahipalpur New", "region": "Delhi", "price": "3199.0", "ratings": "5"}
+{"ID": "45", "room_id": "195", "room_name": "MedRooms  026 Karol Bagh", "locality": "Karol Bagh", "region": "Delhi", "price": "2049.0", "ratings": "5"}
+{"ID": "46", "room_id": "72", "room_name": "MedRooms  105 Paharganj DB Gupta Road 2", "locality": "Paharganj", "region": "Delhi", "price": "1449.0", "ratings": "5"}
+{"ID": "47", "room_id": "156", "room_name": "MedRooms Premium 405 GK1 Near M Block Market", "locality": "Greater Kailash -1", "region": "Delhi", "price": "4499.0", "ratings": "5"}
+{"ID": "48", "room_id": "258", "room_name": "MedRooms  461 Kalkaji F Block", "locality": "Kalkji Main Road", "region": "Delhi", "price": "2799.0", "ratings": "5"}
+{"ID": "49", "room_id": "69", "room_name": "MedRooms  671 Dabri Palam Road", "locality": "Main Mahiveer Enclave in front of Sulabh International Dabri Palam Road", "region": "Delhi", "price": "1849.0", "ratings": "5"}
+{"ID": "50", "room_id": "140", "room_name": "MedRooms  079 Delhi International Airport", "locality": "Mahipalpur Extn, Near Airport, National Highway -8", "region": "Delhi", "price": "3249.0", "ratings": "5"}
+{"ID": "51", "room_id": "281", "room_name": "MedRooms  677 Kamla Nagar", "locality": "Kamla Nagar", "region": "Delhi", "price": "2099.0", "ratings": "5"}
+{"ID": "52", "room_id": "219", "room_name": "MedRooms Homes 328 Chhatarpur", "locality": "Maidan Garhi Road,Chattarpur", "region": "Delhi", "price": "1599.0", "ratings": "5"}
+{"ID": "53", "room_id": "217", "room_name": "MedRooms Premium 582 Pitampura", "locality": "Near Kohat Enclave Metro Station, Opposite Metro Pillar No. 332", "region": "Delhi", "price": "5099.0", "ratings": "5"}
+{"ID": "54", "room_id": "138", "room_name": "MedRooms  437 North Campus", "locality": "Opposite Parmarth Hospital, Above Allahabad Bank", "region": "Delhi", "price": "2549.0", "ratings": "5"}
+{"ID": "55", "room_id": "139", "room_name": "MedRooms  541 Dwarka Sector 13 Metro Station", "locality": "Sector 13, Dwarka", "region": "Delhi", "price": "3849.0", "ratings": "5"}
+{"ID": "56", "room_id": "137", "room_name": "MedRooms  031 Near IGI Airport Aerocity", "locality": "National Highway No. 8, Mahipalpur", "region": "Delhi", "price": "3749.0", "ratings": "5"}
+{"ID": "57", "room_id": "130", "room_name": "MedRooms Premium 208 GK 1 M Block Market", "locality": "Greater Kailash", "region": "Delhi", "price": "6849.0", "ratings": "5"}
+{"ID": "58", "room_id": "244", "room_name": "MedRooms  130 Nizamuddin Railway Station 2", "locality": "Hazrat Nizamuddin West", "region": "Delhi", "price": "2999.0", "ratings": "5"}
+{"ID": "59", "room_id": "102", "room_name": "MedRooms  230 Near RK Ashram Metro Paharganj", "locality": "Paharganj", "region": "Delhi", "price": "1599.0", "ratings": "5"}
+{"ID": "60", "room_id": "242", "room_name": "MedRooms Premium 386 Rajguru Road Paharganj", "locality": "CHUNA MANDI", "region": "Delhi", "price": "2349.0", "ratings": "5"}
+{"ID": "61", "room_id": "284", "room_name": "MedRooms  125 Pitampura I", "locality": "Pitampura", "region": "Delhi", "price": "3199.0", "ratings": "5"}
+{"ID": "62", "room_id": "274", "room_name": "MedRooms  337 Arya Nagar Paharganj", "locality": "D.B. Gupta Road", "region": "Delhi", "price": "1549.0", "ratings": "4"}
+{"ID": "63", "room_id": "300", "room_name": "MedRooms  552 GK2 M Block Market Extension", "locality": "Greater Kailash-2", "region": "Delhi", "price": "1999.0", "ratings": "4"}
+{"ID": "64", "room_id": "251", "room_name": "MedRooms  444 Near Karol Bagh Metro Station 5", "locality": "Karol Bagh", "region": "Delhi", "price": "1549.0", "ratings": "4"}
+{"ID": "65", "room_id": "144", "room_name": "MedRooms  051 New Friends Colony Market", "locality": "New Friends Colony", "region": "Delhi", "price": "2949.0", "ratings": "4"}
+{"ID": "66", "room_id": "272", "room_name": "MedRooms  358 Near Jasola Sports Complex", "locality": "Jasola", "region": "Delhi", "price": "1649.0", "ratings": "4"}
+{"ID": "67", "room_id": "294", "room_name": "MedRooms Premium 068 Karol Bagh", "locality": "Near By Karol Bagh Police Station / HDFC bank", "region": "Delhi", "price": "2049.0", "ratings": "4"}
+{"ID": "68", "room_id": "45", "room_name": "MedRooms  185 GK 1 Near M Block Market", "locality": "Greater Kailash Part 1", "region": "Delhi", "price": "3549.0", "ratings": "4"}
+{"ID": "69", "room_id": "280", "room_name": "MedRooms  104 Paharganj Railway Station", "locality": "Pahar Ganj", "region": "Delhi", "price": "1349.0", "ratings": "4"}
+{"ID": "70", "room_id": "293", "room_name": "MedRooms Homes 441 Janakpuri West Metro Station", "locality": "Opposite Savitri Market", "region": "Delhi", "price": "2099.0", "ratings": "4"}
+{"ID": "71", "room_id": "306", "room_name": "MedRooms Homes 369 South Extension 1", "locality": "South Extension 1", "region": "Delhi", "price": "2299.0", "ratings": "4"}
+{"ID": "72", "room_id": "193", "room_name": "MedRooms  522 Karol Bagh 17A-13 Gurudwara Road", "locality": "Karol Bagh", "region": "Delhi", "price": "1599.0", "ratings": "4"}
+{"ID": "73", "room_id": "152", "room_name": "MedRooms  184 Aerodrome Near IGI Airport", "locality": "Mahipalpur, NH-8, Near IGI Airport", "region": "Delhi", "price": "3399.0", "ratings": "4"}
+{"ID": "74", "room_id": "95", "room_name": "MedRooms  683 Near T3 Airport Delhi", "locality": "Kapashera", "region": "Delhi", "price": "2299.0", "ratings": "4"}
+{"ID": "75", "room_id": "94", "room_name": "MedRooms  043 Nehru Place Extension", "locality": "Jasola", "region": "Delhi", "price": "1499.0", "ratings": "4"}
+{"ID": "76", "room_id": "252", "room_name": "MedRooms  605 Near Shiela Cinema Paharganj", "locality": "1B, Arakashan Road", "region": "Delhi", "price": "1499.0", "ratings": "4"}
+{"ID": "77", "room_id": "308", "room_name": "MedRooms  548 New Delhi Junction", "locality": "Arakashan Road, Paharganj", "region": "Delhi", "price": "1599.0", "ratings": "4"}
+{"ID": "78", "room_id": "97", "room_name": "MedRooms  609 Paharganj Near NDLS", "locality": "Ram Nagar, Street No.1", "region": "Delhi", "price": "1599.0", "ratings": "4"}
+{"ID": "79", "room_id": "181", "room_name": "MedRooms Apartments 273 Dwarka Sector 12", "locality": "Dwarka", "region": "Delhi", "price": "2199.0", "ratings": "4"}
+{"ID": "80", "room_id": "267", "room_name": "MedRooms  138 Vasant Kunj 1", "locality": "Masoodpur Vasant Kunj", "region": "Delhi", "price": "2399.0", "ratings": "4"}
+{"ID": "81", "room_id": "256", "room_name": "MedRooms Homes 291 Dwarka Sector 19", "locality": "Dwarka", "region": "Delhi", "price": "1999.0", "ratings": "4"}
+{"ID": "82", "room_id": "303", "room_name": "MedRooms Premium 458 GT Karnal Road", "locality": "Alipur", "region": "Delhi", "price": "3599.0", "ratings": "4"}
+{"ID": "83", "room_id": "88", "room_name": "MedRooms  065 Janakpuri Near Dabri Mod", "locality": "Pankha Road,Dabri Mor", "region": "Delhi", "price": "2899.0", "ratings": "4"}
+{"ID": "84", "room_id": "301", "room_name": "MedRooms  381 Kailash Colony Metro 2", "locality": "East of Kailash", "region": "Delhi", "price": "2549.0", "ratings": "4"}
+{"ID": "85", "room_id": "64", "room_name": "MedRooms Premium 220 East Of Kailash Extension", "locality": "East of Kailash", "region": "Delhi", "price": "3799.0", "ratings": "4"}
+{"ID": "86", "room_id": "157", "room_name": "MedRooms  535 Chattarpur", "locality": "Chandan Hola", "region": "Delhi", "price": "4049.0", "ratings": "4"}
+{"ID": "87", "room_id": "291", "room_name": "MedRooms Premium 603 Red Fort", "locality": "Opposite Happy School, Daryaganj", "region": "Delhi", "price": "2399.0", "ratings": "4"}
+{"ID": "88", "room_id": "61", "room_name": "MedRooms Premium 529 Jasola Vihar", "locality": "Pocket-2, Jasola", "region": "Delhi", "price": "2699.0", "ratings": "4"}
+{"ID": "89", "room_id": "146", "room_name": "MedRooms Premium 311 Ring Road GK1 2", "locality": "Greater Kailash 1", "region": "Delhi", "price": "4749.0", "ratings": "4"}
+{"ID": "90", "room_id": "163", "room_name": "MedRooms Premium 407 South Delhi Grand Stay", "locality": "Aruna Asaf Ali Marg", "region": "Delhi", "price": "4199.0", "ratings": "4"}
+{"ID": "91", "room_id": "326", "room_name": "MedRooms Premium 346 Connaught Place 2", "locality": "Connaught Place", "region": "Delhi", "price": "2599.0", "ratings": "4"}
+{"ID": "92", "room_id": "247", "room_name": "MedRooms  604 DB Gupta Main Road 1", "locality": "DB Gupta Road, Pahar Ganj Bridge", "region": "Delhi", "price": "1349.0", "ratings": "4"}
+{"ID": "93", "room_id": "246", "room_name": "MedRooms  298 38 Arakashan Road Pahar Ganj", "locality": "Arakshan Road", "region": "Delhi", "price": "749.0", "ratings": "4"}
+{"ID": "94", "room_id": "150", "room_name": "MedRooms  566 Saket J Block", "locality": "Opposite J Block Market, Saket", "region": "Delhi", "price": "3499.0", "ratings": "4"}
+{"ID": "95", "room_id": "203", "room_name": "MedRooms  301 Vasant Kunj Near DPS", "locality": "Opposite DPS School Gate No. 1", "region": "Delhi", "price": "2599.0", "ratings": "4"}
+{"ID": "96", "room_id": "215", "room_name": "MedRooms  455 Near Karol Bagh Metro Station 2", "locality": "Karol Bagh", "region": "Delhi", "price": "1699.0", "ratings": "4"}
+{"ID": "97", "room_id": "241", "room_name": "MedRooms  097 Gaffar Market Karol Bagh", "locality": "Karol Bagh, New Delhi", "region": "Delhi", "price": "1449.0", "ratings": "4"}
+{"ID": "98", "room_id": "240", "room_name": "MedRooms  094 Karol Bagh 53/1", "locality": "Karol Bagh", "region": "Delhi", "price": "2049.0", "ratings": "4"}
+{"ID": "99", "room_id": "209", "room_name": "MedRooms  580 Karol Bagh 17A/59", "locality": "WEA, Karol Bag, Near RBL Bank", "region": "Delhi", "price": "1349.0", "ratings": "4"}
+{"ID": "100", "room_id": "225", "room_name": "MedRooms Premium 140 Connaught Place", "locality": "Barakhamba", "region": "Delhi", "price": "6149.0", "ratings": "4"}
+{"ID": "101", "room_id": "30", "room_name": "MedRooms Apartments 273 Dwarka Sector 12", "locality": "Dwarka", "region": "Delhi", "price": "2199.0", "ratings": "4"}
+{"ID": "102", "room_id": "113", "room_name": "MedRooms  699 North Campus", "locality": "Phase 2, Ashok Vihar", "region": "Delhi", "price": "2349.0", "ratings": "4"}
+{"ID": "103", "room_id": "231", "room_name": "MedRooms Premium 564 Nehru Place Ring Road", "locality": "Nehru Place", "region": "Delhi", "price": "4399.0", "ratings": "4"}
+{"ID": "104", "room_id": "103", "room_name": "MedRooms  626 DB Gupta NDLS", "locality": "Near Gate No 1, Opposite Sheila Cinema", "region": "Delhi", "price": "1849.0", "ratings": "4"}
+{"ID": "105", "room_id": "268", "room_name": "MedRooms  433 Jangpura", "locality": "Masjid Road, Jangpura Bhogal", "region": "Delhi", "price": "1749.0", "ratings": "4"}
+{"ID": "106", "room_id": "316", "room_name": "MedRooms  179 Kashmere Gate", "locality": "Kashmere Gate", "region": "Delhi", "price": "1949.0", "ratings": "4"}
+{"ID": "107", "room_id": "120", "room_name": "MedRooms Flagship 551 Karol Bagh", "locality": "Next to Baptist Church,D.B Gupta Road, Near Police Station, Karol Bagh", "region": "Delhi", "price": "3349.0", "ratings": "4"}
+{"ID": "108", "room_id": "16", "room_name": "MedRooms  142 Connaught Place 1", "locality": "Connaught Circus", "region": "Delhi", "price": "4649.0", "ratings": "4"}
+{"ID": "109", "room_id": "99", "room_name": "MedRooms  173 Paharganj Qutub Road", "locality": "Ram Nagar", "region": "Delhi", "price": "1449.0", "ratings": "4"}
+{"ID": "110", "room_id": "55", "room_name": "MedRooms  126 East of Kailash", "locality": "Near Nehru Place", "region": "Delhi", "price": "3599.0", "ratings": "4"}
+{"ID": "111", "room_id": "234", "room_name": "MedRooms  093 Kalkaji Mandir Delhi", "locality": "Kalkaji", "region": "Delhi", "price": "1899.0", "ratings": "4"}
+{"ID": "112", "room_id": "112", "room_name": "MedRooms  606 New Friends Colony 1", "locality": "New Friends Colony", "region": "Delhi", "price": "3849.0", "ratings": "3"}
+{"ID": "113", "room_id": "0", "room_name": "MedRooms Premium 529 Jasola Vihar", "locality": "Pocket-2, Jasola", "region": "Delhi", "price": "2649.0", "ratings": "3"}
+{"ID": "114", "room_id": "180", "room_name": "MedRooms Premium 232 Jasola Near DLF Tower", "locality": "Jasola", "region": "Delhi", "price": "4949.0", "ratings": "3"}
+{"ID": "115", "room_id": "118", "room_name": "MedRooms  697 Karol Bagh", "locality": "Desh Bandhu Gupta Road, Beadonpura, Karol Bagh", "region": "Delhi", "price": "2049.0", "ratings": "3"}
+{"ID": "116", "room_id": "114", "room_name": "MedRooms Premium 538 Hauz Khas Metro", "locality": "S Block, Panchsheel Park", "region": "Delhi", "price": "3349.0", "ratings": "3"}
+{"ID": "117", "room_id": "104", "room_name": "MedRooms  451 Gali No 3 Ram Nagar Paharganj", "locality": "Saran Building, Gali No. 3", "region": "Delhi", "price": "1599.0", "ratings": "3"}
+{"ID": "118", "room_id": "109", "room_name": "MedRooms Flagship 573 Paharganj NDLS", "locality": "Arakashan Road, Paharganj", "region": "Delhi", "price": "1799.0", "ratings": "3"}
+{"ID": "119", "room_id": "108", "room_name": "MedRooms Flagship 512 Safdarjung Enclave", "locality": "B Block, Safdurjung Enclave", "region": "Delhi", "price": "3449.0", "ratings": "3"}
+{"ID": "120", "room_id": "105", "room_name": "MedRooms Flagship 497 Green Park", "locality": "B Block, Safdarjung Enclave", "region": "Delhi", "price": "5049.0", "ratings": "3"}
+{"ID": "121", "room_id": "92", "room_name": "MedRooms  277 Near Jhandewalan Metro", "locality": "Karol Bagh", "region": "Delhi", "price": "2099.0", "ratings": "3"}
+{"ID": "122", "room_id": "304", "room_name": "MedRooms  597 Hari Mandir Gali Paharganj", "locality": "Gali Hari Mandir", "region": "Delhi", "price": "1199.0", "ratings": "3"}
+{"ID": "123", "room_id": "182", "room_name": "MedRooms Premium 187 Hari Nagar", "locality": "Hari Nagar", "region": "Delhi", "price": "3399.0", "ratings": "3"}
+{"ID": "124", "room_id": "197", "room_name": "MedRooms Premium 165 Rajouri Garden Metro Station", "locality": "Rajouri Garden", "region": "Delhi", "price": "3799.0", "ratings": "3"}
+{"ID": "125", "room_id": "238", "room_name": "MedRooms  119 New Delhi Railway Station", "locality": "Paharganj", "region": "Delhi", "price": "1349.0", "ratings": "3"}
+{"ID": "126", "room_id": "243", "room_name": "MedRooms  492 Ramphal Chowk Dwarka", "locality": "Sector-7", "region": "Delhi", "price": "1899.0", "ratings": "3"}
+{"ID": "127", "room_id": "250", "room_name": "MedRooms  663 Elahi Bux Road Karol Bagh", "locality": "Karol Bagh", "region": "Delhi", "price": "1299.0", "ratings": "3"}
+{"ID": "128", "room_id": "253", "room_name": "MedRooms  379 New Delhi Station Gate 1", "locality": "Opposite New Delhi Railway Station, Paharganj", "region": "Delhi", "price": "1099.0", "ratings": "3"}
+{"ID": "129", "room_id": "271", "room_name": "MedRooms  348 Near Mahipalpur Bypass", "locality": "Road No 6, Mahipalpur, Mahipalpur, International Airport Zone", "region": "Delhi", "price": "1949.0", "ratings": "3"}
+{"ID": "130", "room_id": "276", "room_name": "MedRooms Premium 240 Paharganj Near NDLS", "locality": "Pahar Ganj", "region": "Delhi", "price": "2449.0", "ratings": "3"}
+{"ID": "131", "room_id": "277", "room_name": "MedRooms  045 Connaught Place G Block", "locality": "Connaught Place", "region": "Delhi", "price": "4449.0", "ratings": "3"}
+{"ID": "132", "room_id": "286", "room_name": "MedRooms  316 Kalkaji M Block", "locality": "M Block, Kalkaji", "region": "Delhi", "price": "2599.0", "ratings": "3"}
+{"ID": "133", "room_id": "202", "room_name": "MedRooms  085 Hauz Khas District Park", "locality": "Safdarjung Enclave", "region": "Delhi", "price": "2999.0", "ratings": "3"}
+{"ID": "134", "room_id": "290", "room_name": "MedRooms  368 Block 11A Channa Market Karol Bagh", "locality": "W.E.A, Channa Market, Karol Bagh", "region": "Delhi", "price": "1549.0", "ratings": "3"}
+{"ID": "135", "room_id": "82", "room_name": "MedRooms Homes 382 Pitampura Metro Station", "locality": "Road no 44", "region": "Delhi", "price": "2149.0", "ratings": "3"}
+{"ID": "136", "room_id": "295", "room_name": "MedRooms  406 Railway Station Paharganj 4", "locality": "Arakashan Road", "region": "Delhi", "price": "1399.0", "ratings": "3"}
+{"ID": "137", "room_id": "85", "room_name": "MedRooms  296 Railway Station Paharganj 2", "locality": "Paharganj", "region": "Delhi", "price": "1449.0", "ratings": "3"}
+{"ID": "138", "room_id": "17", "room_name": "MedRooms  257 Rajendra Place PUSA Circle", "locality": "East Patel Nagar", "region": "Delhi", "price": "2499.0", "ratings": "3"}
+{"ID": "139", "room_id": "81", "room_name": "MedRooms Premium 483 Lajpat Nagar Ring Road 2", "locality": "Ring Road", "region": "Delhi", "price": "4199.0", "ratings": "3"}
+{"ID": "140", "room_id": "77", "room_name": "MedRooms Premium 236 Malviya Nagar Metro", "locality": "Malviya Nagar", "region": "Delhi", "price": "3999.0", "ratings": "3"}
+{"ID": "141", "room_id": "185", "room_name": "MedRooms  480 IGI Airport 4", "locality": "Road no 2, Mahipalpur", "region": "Delhi", "price": "1649.0", "ratings": "3"}
+{"ID": "142", "room_id": "148", "room_name": "MedRooms  082 Patel Nagar Main Market", "locality": "Main Market", "region": "Delhi", "price": "3399.0", "ratings": "3"}
+{"ID": "143", "room_id": "151", "room_name": "MedRooms  157 Delhi Airport 2", "locality": "Opposite Indra Gandhi International Airport, Mahipalpur Extension, NH-8", "region": "Delhi", "price": "1899.0", "ratings": "3"}
+{"ID": "144", "room_id": "329", "room_name": "MedRooms  398 South Extension 2", "locality": "South Extension-ll", "region": "Delhi", "price": "2299.0", "ratings": "3"}
+{"ID": "145", "room_id": "175", "room_name": "MedRooms  280 J Block Vikaspuri Delhi", "locality": "Vikaspuri", "region": "Delhi", "price": "2199.0", "ratings": "3"}
+{"ID": "146", "room_id": "172", "room_name": "MedRooms Premium 534 Dwarka Near Ramphal Chowk", "locality": "Dwarka Palam Road", "region": "Delhi", "price": "2549.0", "ratings": "3"}
+{"ID": "147", "room_id": "176", "room_name": "MedRooms Homes 110 Jangpura Ext", "locality": "Jangpura Extension", "region": "Delhi", "price": "3049.0", "ratings": "3"}
+{"ID": "148", "room_id": "145", "room_name": "MedRooms Premium 586 Near Meera Bagh", "locality": "Outer Ring Road, Meera Bagh", "region": "Delhi", "price": "3949.0", "ratings": "3"}
+{"ID": "149", "room_id": "330", "room_name": "MedRooms  516 Shakti Vihar Pitampura", "locality": "Pitampura", "region": "Delhi", "price": "2249.0", "ratings": "3"}
+{"ID": "150", "room_id": "124", "room_name": "MedRooms  545 Rohini Pitampura", "locality": "Saraswati Vihar, Pitampura", "region": "Delhi", "price": "3149.0", "ratings": "3"}
+{"ID": "151", "room_id": "123", "room_name": "MedRooms  555 Pitampura", "locality": "Rajdhani Enclave,Pitampura", "region": "Delhi", "price": "3299.0", "ratings": "3"}
+{"ID": "152", "room_id": "1", "room_name": "MedRooms Flagship 485 GK2 Savitri Cinema", "locality": "E Block,GK2", "region": "Delhi", "price": "3149.0", "ratings": "3"}
+{"ID": "153", "room_id": "2", "room_name": "MedRooms Flagship 573 Paharganj NDLS", "locality": "Arakashan Road, Paharganj", "region": "Delhi", "price": "1799.0", "ratings": "3"}
+{"ID": "154", "room_id": "15", "room_name": "MedRooms  030 IGI Airport Aerocity", "locality": "National Highway No. 8, Mahipalpur", "region": "Delhi", "price": "3799.0", "ratings": "3"}
+{"ID": "155", "room_id": "37", "room_name": "MedRooms  509 Near Badarpur", "locality": "60 Feet Road, Pul Pehlad Pur", "region": "Delhi", "price": "1699.0", "ratings": "3"}
+{"ID": "156", "room_id": "46", "room_name": "MedRooms  653 Near Kailash Colony Metro", "locality": "Kailash Colony", "region": "Delhi", "price": "2749.0", "ratings": "3"}
+{"ID": "157", "room_id": "50", "room_name": "MedRooms  528 8A/50 Channa Market", "locality": "Channa Market, Karol Bagh", "region": "Delhi", "price": "2399.0", "ratings": "3"}
+{"ID": "158", "room_id": "60", "room_name": "MedRooms  641 Sector 7 Palam Extension", "locality": "Sector 7, Near Shree Makhan Sweet, Ramphal Chowk", "region": "Delhi", "price": "1849.0", "ratings": "3"}
+{"ID": "159", "room_id": "65", "room_name": "MedRooms  666 Nehru Place Near Metro Station", "locality": "Nehru Enclave", "region": "Delhi", "price": "3299.0", "ratings": "3"}
+{"ID": "160", "room_id": "68", "room_name": "MedRooms  044 Patel Nagar Delhi", "locality": "East Patel Nagar", "region": "Delhi", "price": "2299.0", "ratings": "3"}
+{"ID": "161", "room_id": "70", "room_name": "MedRooms  553 Paharganj Flyover 1", "locality": "D.B. Gupta Road, Paharganj", "region": "Delhi", "price": "1799.0", "ratings": "3"}
+{"ID": "162", "room_id": "74", "room_name": "MedRooms Premium 532 GK1 M Block Market 1", "locality": "Greater Kailash 1", "region": "Delhi", "price": "4649.0", "ratings": "3"}
+{"ID": "163", "room_id": "75", "room_name": "MedRooms  027 Karol Bagh 8/41", "locality": "Karol Bagh", "region": "Delhi", "price": "1649.0", "ratings": "3"}
+{"ID": "164", "room_id": "226", "room_name": "MedRooms  332 New Delhi Railway Station Paharganj", "locality": "Kaseru Walan, Paharganj", "region": "Delhi", "price": "1349.0", "ratings": "3"}
+{"ID": "165", "room_id": "189", "room_name": "MedRooms  203 llahi Bux Marg Karol Bagh", "locality": "Karol Bagh", "region": "Delhi", "price": "2049.0", "ratings": "3"}
+{"ID": "166", "room_id": "317", "room_name": "MedRooms Premium 172 Laxmi Nagar", "locality": "Laxmi Nagar", "region": "Delhi", "price": "2549.0", "ratings": "3"}
+{"ID": "167", "room_id": "319", "room_name": "MedRooms  259 Rajguru Road Paharganj", "locality": "Paharganj", "region": "Delhi", "price": "1499.0", "ratings": "3"}
+{"ID": "168", "room_id": "263", "room_name": "MedRooms Premium 029 Siri Fort Road", "locality": "Sadiq Nagar", "region": "Delhi", "price": "4099.0", "ratings": "2"}
+{"ID": "169", "room_id": "206", "room_name": "MedRooms  314 10174/1 Gurudwara Road Karol Bagh", "locality": "Karol Bagh", "region": "Delhi", "price": "1399.0", "ratings": "2"}
+{"ID": "170", "room_id": "48", "room_name": "MedRooms  486 IGI Airport Near Main Road", "locality": "Near Prem Motor Showroom, Adjoining Vasantkunj Road", "region": "Delhi", "price": "1599.0", "ratings": "2"}
+{"ID": "171", "room_id": "311", "room_name": "MedRooms  572 DB Gupta Road Karol Bagh 2", "locality": "D.B. Gupta Road, Karol Bagh", "region": "Delhi", "price": "1399.0", "ratings": "2"}
+{"ID": "172", "room_id": "27", "room_name": "MedRooms Premium 292 Lajpat Nagar Main Road", "locality": "Lajpat Nagar 4", "region": "Delhi", "price": "4299.0", "ratings": "2"}
+{"ID": "173", "room_id": "119", "room_name": "MedRooms Flagship 551 Karol Bagh", "locality": "Next to Baptist Church,D.B Gupta Road, Near Police Station, Karol Bagh", "region": "Delhi", "price": "3349.0", "ratings": "2"}
+{"ID": "174", "room_id": "58", "room_name": "MedRooms  599 Rajguru Road Paharganj 2", "locality": "Rajguru Road, Chuna Mandi", "region": "Delhi", "price": "1149.0", "ratings": "2"}
+{"ID": "175", "room_id": "287", "room_name": "MedRooms Homes 325 AIIMS", "locality": "Arjun Nagar", "region": "Delhi", "price": "1999.0", "ratings": "2"}
+{"ID": "176", "room_id": "62", "room_name": "MedRooms Premium 143 Rajouri Garden Janta Market", "locality": "Rajouri Garden", "region": "Delhi", "price": "3199.0", "ratings": "2"}
+{"ID": "177", "room_id": "63", "room_name": "MedRooms  565 Airport Travellers Delight", "locality": "Street No.7, Near IGI Airport, Mahipalpur", "region": "Delhi", "price": "2699.0", "ratings": "2"}
+{"ID": "178", "room_id": "285", "room_name": "MedRooms Premium 083 Karol Bagh Metro Station", "locality": "Karol Bagh", "region": "Delhi", "price": "1999.0", "ratings": "2"}
+{"ID": "179", "room_id": "57", "room_name": "MedRooms  567 Paharganj Near RK Ashram Metro", "locality": "Near R.K. Ashram Metro Station", "region": "Delhi", "price": "1949.0", "ratings": "2"}
+{"ID": "180", "room_id": "164", "room_name": "MedRooms  014 New Friends Colony Crossroad", "locality": "CV Raman Marg", "region": "Delhi", "price": "2249.0", "ratings": "2"}
+{"ID": "181", "room_id": "221", "room_name": "MedRooms  265 Balaji Mandir Karol Bagh", "locality": "Karol Bagh", "region": "Delhi", "price": "1799.0", "ratings": "2"}
+{"ID": "182", "room_id": "216", "room_name": "MedRooms  147 Karol Bagh 14A/7", "locality": "Karol Bagh", "region": "Delhi", "price": "2399.0", "ratings": "2"}
+{"ID": "183", "room_id": "204", "room_name": "MedRooms  530 Krishna Gali Near NDLS Gate 1", "locality": "Near New Delhi Railway Station, Paharganj", "region": "Delhi", "price": "1299.0", "ratings": "2"}
+{"ID": "184", "room_id": "296", "room_name": "MedRooms Homes 101 GK N Block Market", "locality": "Greater Kailash-1, New Delhi", "region": "Delhi", "price": "2449.0", "ratings": "2"}
+{"ID": "185", "room_id": "198", "room_name": "MedRooms  313 Channa Market 14A/4 Karol Bagh", "locality": "Karol Bagh", "region": "Delhi", "price": "2049.0", "ratings": "2"}
+{"ID": "186", "room_id": "155", "room_name": "MedRooms  205 Dwarka Sector 12 Metro Station", "locality": "Dwarka", "region": "Delhi", "price": "3399.0", "ratings": "2"}
+{"ID": "187", "room_id": "136", "room_name": "MedRooms Premium 081 Domestic Airport Delhi", "locality": "Khasara No.395, Vasant Kunj Road, Mahipalpur", "region": "Delhi", "price": "3299.0", "ratings": "2"}
+{"ID": "188", "room_id": "134", "room_name": "MedRooms  039 Near Qutub Road Arya Nagar Paharganj", "locality": "Paharganj", "region": "Delhi", "price": "1099.0", "ratings": "2"}
+{"ID": "189", "room_id": "159", "room_name": "MedRooms  219 Grace Church NFC", "locality": "Kirokli", "region": "Delhi", "price": "2649.0", "ratings": "2"}
+{"ID": "190", "room_id": "133", "room_name": "MedRooms Premium 404 International Airport Terminal 3 Extension", "locality": "A Block, Mahipalpur Extension, NH8, New", "region": "Delhi", "price": "3549.0", "ratings": "2"}
+{"ID": "191", "room_id": "132", "room_name": "MedRooms  124 Kirti Nagar", "locality": "Kirti Nagar", "region": "Delhi", "price": "1549.0", "ratings": "2"}
+{"ID": "192", "room_id": "207", "room_name": "MedRooms  653 Near Kailash Colony Metro", "locality": "Kailash Colony", "region": "Delhi", "price": "2749.0", "ratings": "2"}
+{"ID": "193", "room_id": "177", "room_name": "MedRooms  204 Rajendra Place Metro Station", "locality": "East Patel Nagar", "region": "Delhi", "price": "2299.0", "ratings": "2"}
+{"ID": "194", "room_id": "184", "room_name": "MedRooms Homes 456 Rani Bagh", "locality": "Rani Bagh", "region": "Delhi", "price": "1799.0", "ratings": "2"}
+{"ID": "195", "room_id": "179", "room_name": "MedRooms  263 PVR Vikas Puri", "locality": "Vikas Puri", "region": "Delhi", "price": "2549.0", "ratings": "2"}
+{"ID": "196", "room_id": "312", "room_name": "MedRooms  562 Pitampura Madhuban Chowk", "locality": "Pitampura", "region": "Delhi", "price": "2499.0", "ratings": "2"}
+{"ID": "197", "room_id": "24", "room_name": "MedRooms Premium 207 Greater Kailash 1", "locality": "Greater Kailash 1", "region": "Delhi", "price": "4799.0", "ratings": "2"}
+{"ID": "198", "room_id": "44", "room_name": "MedRooms  588 DB Gupta Road Near Flyover", "locality": "Dariba Pan", "region": "Delhi", "price": "1199.0", "ratings": "2"}
+{"ID": "199", "room_id": "236", "room_name": "MedRooms  629 New Rohtak Road Karol Bagh", "locality": "Rohtak Road, Karol Bagh", "region": "Delhi", "price": "1449.0", "ratings": "2"}
+{"ID": "200", "room_id": "29", "room_name": "MedRooms  098 South Delhi", "locality": "Opposite Karnataka Bank, Kalkaji", "region": "Delhi", "price": "2149.0", "ratings": "2"}
+{"ID": "201", "room_id": "261", "room_name": "MedRooms Premium 261 Karol Bagh Metro Station 3", "locality": "Karol Bagh", "region": "Delhi", "price": "2749.0", "ratings": "2"}
+{"ID": "202", "room_id": "76", "room_name": "MedRooms  358 Near Jasola Sports Complex", "locality": "Jasola", "region": "Delhi", "price": "1649.0", "ratings": "2"}
+{"ID": "203", "room_id": "80", "room_name": "MedRooms  038 Jamia River View", "locality": "Jamia Nagar", "region": "Delhi", "price": "1399.0", "ratings": "2"}
+{"ID": "204", "room_id": "83", "room_name": "MedRooms Premium 123 Hauz Khas", "locality": "Safdarjung Enclave", "region": "Delhi", "price": "3649.0", "ratings": "2"}
+{"ID": "205", "room_id": "84", "room_name": "MedRooms  115 Main Bazar Paharganj", "locality": "Near Imperial Cinema", "region": "Delhi", "price": "1249.0", "ratings": "2"}
+{"ID": "206", "room_id": "86", "room_name": "MedRooms Homes 375 South Extension 1 H Block", "locality": "South Extension - 1", "region": "Delhi", "price": "2249.0", "ratings": "2"}
+{"ID": "207", "room_id": "264", "room_name": "MedRooms  152 Karol Bagh Bikanerwala", "locality": "Gurudwara Road, Karol Bagh", "region": "Delhi", "price": "1849.0", "ratings": "2"}
+{"ID": "208", "room_id": "12", "room_name": "MedRooms Homes 459 New Friends Colony 2", "locality": "Second Floor (With Elevator), New Friends Colony ", "region": "Delhi", "price": "3699.0", "ratings": "2"}
+{"ID": "209", "room_id": "42", "room_name": "MedRooms  215 Gangaram Hospital", "locality": "Old Rajendra Nagar", "region": "Delhi", "price": "2649.0", "ratings": "2"}
+{"ID": "210", "room_id": "322", "room_name": "MedRooms  096 Vasant Kunj 2", "locality": "New Delhi", "region": "Delhi", "price": "2299.0", "ratings": "2"}
+{"ID": "211", "room_id": "245", "room_name": "MedRooms  641 Sector 7 Palam Extension", "locality": "Sector 7, Near Shree Makhan Sweet, Ramphal Chowk", "region": "Delhi", "price": "1849.0", "ratings": "2"}
+{"ID": "212", "room_id": "10", "room_name": "MedRooms  010 Karol Bagh 1078", "locality": "Karol Bagh, New Delhi", "region": "Delhi", "price": "1699.0", "ratings": "2"}
+{"ID": "213", "room_id": "324", "room_name": "MedRooms  490 Jantar Mantar Delhi", "locality": "Jai Singh Road", "region": "Delhi", "price": "2999.0", "ratings": "2"}
+{"ID": "214", "room_id": "321", "room_name": "MedRooms Homes 446 Kailash Colony Main Market", "locality": "Kailash Colony", "region": "Delhi", "price": "2099.0", "ratings": "2"}
+{"ID": "215", "room_id": "235", "room_name": "MedRooms Premium 008 IGI Airport Link Road", "locality": "Mahipalpur, NH -8, Near IGI Airport, Delhi Gurgaon Expy, Block RZ, Mahipalpur Village", "region": "Delhi", "price": "3699.0", "ratings": "2"}
+{"ID": "216", "room_id": "66", "room_name": "MedRooms  350 Delhi Gate\u00a0", "locality": "Darya Ganj", "region": "Delhi", "price": "2499.0", "ratings": "2"}
+{"ID": "217", "room_id": "299", "room_name": "MedRooms  542 Bhogal Jangpura", "locality": "Church Road, Jungpura, Bhogal", "region": "Delhi", "price": "1299.0", "ratings": "2"}
+{"ID": "218", "room_id": "115", "room_name": "MedRooms Premium 336 Resort International Airport Delhi", "locality": "Kapashera", "region": "Delhi", "price": "5799.0", "ratings": "2"}
+{"ID": "219", "room_id": "36", "room_name": "MedRooms  690 Okhla Near Fortis Hospital", "locality": "Jamia Nagar, Okhla", "region": "Delhi", "price": "2499.0", "ratings": "2"}
+{"ID": "220", "room_id": "309", "room_name": "MedRooms  288 Dwarka Sector 12 City Centre", "locality": "Dwarka", "region": "Delhi", "price": "2349.0", "ratings": "2"}
+{"ID": "221", "room_id": "47", "room_name": "MedRooms  133 East of Kailash Extension", "locality": "Opp Sapna Cinema", "region": "Delhi", "price": "2549.0", "ratings": "2"}
+{"ID": "222", "room_id": "38", "room_name": "MedRooms Premium 177 Defence Colony", "locality": "Defence Colony", "region": "Delhi", "price": "3099.0", "ratings": "2"}
+{"ID": "223", "room_id": "283", "room_name": "MedRooms  493 Krishna Gali Near NDLS", "locality": "Krishna Gali, Ghee Mandi, Near New Delhi Railway Station Paharganj", "region": "Delhi", "price": "1299.0", "ratings": "2"}
+{"ID": "224", "room_id": "229", "room_name": "MedRooms Premium 234 Paschim Vihar", "locality": "Paschim Vihar", "region": "Delhi", "price": "3549.0", "ratings": "2"}
+{"ID": "225", "room_id": "116", "room_name": "MedRooms  592 Deer Park", "locality": "SFE", "region": "Delhi", "price": "3299.0", "ratings": "2"}
+{"ID": "226", "room_id": "13", "room_name": "MedRooms Premium 033 New Friends Colony", "locality": "CV Raman Marg", "region": "Delhi", "price": "3149.0", "ratings": "2"}
+{"ID": "227", "room_id": "187", "room_name": "MedRooms Homes 438 Janakpuri", "locality": "Janak Puri", "region": "Delhi", "price": "1649.0", "ratings": "1"}
+{"ID": "228", "room_id": "218", "room_name": "MedRooms  343 Main Bazar Paharganj 4350", "locality": "Kaseru Walan, Paharganj", "region": "Delhi", "price": "1249.0", "ratings": "1"}
+{"ID": "229", "room_id": "237", "room_name": "MedRooms  319 IGI Airport Near Fun N Food Village", "locality": "Kapashera Road, Bijwasan", "region": "Delhi", "price": "2199.0", "ratings": "1"}
+{"ID": "230", "room_id": "127", "room_name": "MedRooms  498 South Ex Market", "locality": "C Block, South Extension 1", "region": "Delhi", "price": "2399.0", "ratings": "1"}
+{"ID": "231", "room_id": "220", "room_name": "MedRooms  226 Near Jhandewalan Metro 1", "locality": "Karol Bagh", "region": "Delhi", "price": "1599.0", "ratings": "1"}
+{"ID": "232", "room_id": "106", "room_name": "MedRooms Flagship 500 New Friends Colony", "locality": "Plot no. A-44, A Block, New Friends Colony, Delhi", "region": "Delhi", "price": "3899.0", "ratings": "1"}
+{"ID": "233", "room_id": "165", "room_name": "MedRooms  560 Vasant Vihar 2", "locality": "Rao Tula Ram Marg", "region": "Delhi", "price": "3099.0", "ratings": "1"}
+{"ID": "234", "room_id": "259", "room_name": "MedRooms  163 Rohini Near M2K", "locality": "Main Road Naharpur Village", "region": "Delhi", "price": "2649.0", "ratings": "1"}
+{"ID": "235", "room_id": "59", "room_name": "MedRooms  300 IGI Airport 3", "locality": "Behind Prem Maruti Showroom, Mahipalpur", "region": "Delhi", "price": "1749.0", "ratings": "1"}
+{"ID": "236", "room_id": "161", "room_name": "MedRooms  365 Indra Gandhi Airport Main Road", "locality": "Next to Hotel Radisson, Near IGI Airport, Rangpuri", "region": "Delhi", "price": "2599.0", "ratings": "1"}
+{"ID": "237", "room_id": "162", "room_name": "MedRooms  088 East Patel Nagar", "locality": "Near Metro Pillar No.161", "region": "Delhi", "price": "2449.0", "ratings": "1"}
+{"ID": "238", "room_id": "110", "room_name": "MedRooms Premium 526 Wazirpur Industrial Area", "locality": "Phase 2, Ashok Vihar, New Delhi", "region": "Delhi", "price": "6099.0", "ratings": "1"}
+{"ID": "239", "room_id": "129", "room_name": "MedRooms  010 Karol Bagh 1078", "locality": "Karol Bagh, New Delhi", "region": "Delhi", "price": "1699.0", "ratings": "1"}
+{"ID": "240", "room_id": "23", "room_name": "MedRooms  183 Opp IGI Airport Main Road", "locality": "N.H. 8, Near IGI Airport Road No. 1, Mahipalpur Extension , Mahipalpur", "region": "Delhi", "price": "3449.0", "ratings": "1"}
+{"ID": "241", "room_id": "78", "room_name": "MedRooms Homes 678 Jangpura Birbal Road", "locality": "Jangpura Extension", "region": "Delhi", "price": "1699.0", "ratings": "1"}
+{"ID": "242", "room_id": "183", "room_name": "MedRooms  057 Dwarka Sector 19", "locality": "Dwarka", "region": "Delhi", "price": "1649.0", "ratings": "1"}
+{"ID": "243", "room_id": "262", "room_name": "MedRooms Homes 367 Greater Kailash M Block Market 2", "locality": "New Delhi", "region": "Delhi", "price": "2649.0", "ratings": "1"}
+{"ID": "244", "room_id": "249", "room_name": "MedRooms  502 Ramphal Chowk Sector 7", "locality": "Ramphal Chowk, Sector 7 Dwarka", "region": "Delhi", "price": "1649.0", "ratings": "1"}
+{"ID": "245", "room_id": "232", "room_name": "MedRooms  228 Near RK Ashram Metro Station 2", "locality": "Paharganj", "region": "Delhi", "price": "1499.0", "ratings": "1"}
+{"ID": "246", "room_id": "101", "room_name": "MedRooms  578 Karol Bagh 16/7 Arya Samaj Road", "locality": "Arya Samaj Road, Opposite Satbhrawan School", "region": "Delhi", "price": "1349.0", "ratings": "1"}
+{"ID": "247", "room_id": "73", "room_name": "MedRooms  361 Paharganj Near Darbar Sweets", "locality": "Pahar Ganj", "region": "Delhi", "price": "1499.0", "ratings": "1"}
+{"ID": "248", "room_id": "213", "room_name": "MedRooms Premium 141 Anand Vihar 2", "locality": "Near Karkardooma Metro Station", "region": "Delhi", "price": "3549.0", "ratings": "1"}
+{"ID": "249", "room_id": "257", "room_name": "MedRooms Premium 531 Green Park 2", "locality": "Green Park", "region": "Delhi", "price": "3799.0", "ratings": "1"}
+{"ID": "250", "room_id": "141", "room_name": "MedRooms  190 Opp IGI Airport", "locality": "NH 8, Near IGI Airport Road No. 1, Mahipalpur Extension", "region": "Delhi", "price": "3749.0", "ratings": "1"}
+{"ID": "251", "room_id": "255", "room_name": "MedRooms  323 Mahipalpur", "locality": "Road No.-6, Mahipalpur, Road No 6", "region": "Delhi", "price": "1399.0", "ratings": "1"}
+{"ID": "252", "room_id": "117", "room_name": "MedRooms  698 Paharganj NDLS", "locality": "Arakashan Road,Pahargankj", "region": "Delhi", "price": "2049.0", "ratings": "1"}
+{"ID": "253", "room_id": "107", "room_name": "MedRooms Flagship 494 East of Kailash", "locality": "Plot no. E-301, E Block, East of Kailash, Delhi", "region": "Delhi", "price": "3699.0", "ratings": "1"}
+{"ID": "254", "room_id": "211", "room_name": "MedRooms  574 Near Kirti Nagar", "locality": "Near Kirti Nagar Police Station", "region": "Delhi", "price": "1949.0", "ratings": "1"}
+{"ID": "255", "room_id": "35", "room_name": "MedRooms  006 New Friends Colony", "locality": "Near Bank of Baroda", "region": "Delhi", "price": "2049.0", "ratings": "1"}
+{"ID": "256", "room_id": "201", "room_name": "MedRooms Premium 546 Green Park Metro", "locality": "Near Green Park Metro", "region": "Delhi", "price": "2999.0", "ratings": "1"}
+{"ID": "257", "room_id": "33", "room_name": "MedRooms  128 Paschim Vihar District Park", "locality": "Bhera Enclave", "region": "Delhi", "price": "2449.0", "ratings": "1"}
+{"ID": "258", "room_id": "147", "room_name": "MedRooms  028 Friends Hospital NFC", "locality": "Maharani Bagh", "region": "Delhi", "price": "2299.0", "ratings": "1"}
+{"ID": "259", "room_id": "158", "room_name": "MedRooms  321 Near RK Ashram Metro Station 3", "locality": "Paharganj", "region": "Delhi", "price": "1349.0", "ratings": "1"}
+{"ID": "260", "room_id": "192", "room_name": "MedRooms Premium 559 Connaught Place Travellers Delight", "locality": "Connaught Circus", "region": "Delhi", "price": "5999.0", "ratings": "1"}
+{"ID": "261", "room_id": "32", "room_name": "MedRooms  195 Patel Nagar Metro Station", "locality": "East Patel Nagar", "region": "Delhi", "price": "2549.0", "ratings": "1"}
+{"ID": "262", "room_id": "194", "room_name": "MedRooms  216 Ministry of Rural Development Delhi", "locality": "East Patel Nagar", "region": "Delhi", "price": "2299.0", "ratings": "1"}
+{"ID": "263", "room_id": "323", "room_name": "MedRooms Premium 335 Model Town Delhi", "locality": "Bhama Shah Marg", "region": "Delhi", "price": "", "ratings": "1"}
+{"ID": "264", "room_id": "196", "room_name": "MedRooms  271 Near Hanuman Statue Karol Bagh", "locality": "Karol Bagh", "region": "Delhi", "price": "1599.0", "ratings": "1"}
+{"ID": "265", "room_id": "19", "room_name": "MedRooms  080 Executive IGI Airport", "locality": "Mahipalpur Extn, Near Airport, National Highway -8", "region": "Delhi", "price": "3249.0", "ratings": "1"}
+{"ID": "266", "room_id": "5", "room_name": "MedRooms  658 Nehru Place 1", "locality": "E Block, East Of Kailash", "region": "Delhi", "price": "1799.0", "ratings": "1"}
+{"ID": "267", "room_id": "149", "room_name": "MedRooms Premium 510 International Airport Terminal 3", "locality": "Opposite Kapashera Police Station Kapashera", "region": "Delhi", "price": "3349.0", "ratings": "1"}
+{"ID": "268", "room_id": "122", "room_name": "MedRooms  591 Hauz Khas Village", "locality": "SDA", "region": "Delhi", "price": "3249.0", "ratings": "1"}
+{"ID": "269", "room_id": "4", "room_name": "MedRooms Premium 055 New Friends Colony Ring Road", "locality": "CV Raman Marg", "region": "Delhi", "price": "3899.0", "ratings": "1"}
+{"ID": "270", "room_id": "178", "room_name": "MedRooms  518 ZION Church Patel Nagar", "locality": "East Patel nagar", "region": "Delhi", "price": "2149.0", "ratings": "1"}
+{"ID": "271", "room_id": "325", "room_name": "MedRooms  188 Safdarjung Enclave", "locality": "Safdarjung Enclave", "region": "Delhi", "price": "3649.0", "ratings": "1"}
+{"ID": "272", "room_id": "315", "room_name": "MedRooms  168 Green Park", "locality": "Hauz Khas", "region": "Delhi", "price": "3549.0", "ratings": "1"}
+{"ID": "273", "room_id": "52", "room_name": "MedRooms  270 Nizamuddin Railway Station", "locality": "Jangpura", "region": "Delhi", "price": "3599.0", "ratings": "1"}
+{"ID": "274", "room_id": "31", "room_name": "MedRooms  616 NDLS Gate Number 2", "locality": "Desh Bandhu Gupta Road", "region": "Delhi", "price": "1849.0", "ratings": "1"}
+{"ID": "275", "room_id": "318", "room_name": "MedRooms  523 Karol Bagh WEA Saraswati Marg 4/39", "locality": "Saraswati Marg, Karol Bagh", "region": "Delhi", "price": "1049.0", "ratings": "1"}
+{"ID": "276", "room_id": "26", "room_name": "MedRooms  680 Jasola Pocket 1", "locality": "Jasola Vihar", "region": "Delhi", "price": "3499.0", "ratings": "1"}
+{"ID": "277", "room_id": "314", "room_name": "MedRooms Premium 687 Naraina Industrial Area", "locality": "Naraina Vihar", "region": "Delhi", "price": "3199.0", "ratings": "1"}
+{"ID": "278", "room_id": "168", "room_name": "MedRooms  253 New Friends Colony 2", "locality": "New Friends colony", "region": "Delhi", "price": "3849.0", "ratings": "1"}
+{"ID": "279", "room_id": "171", "room_name": "MedRooms Homes 275 Saket J Block", "locality": "Saket", "region": "Delhi", "price": "3399.0", "ratings": "1"}
+{"ID": "280", "room_id": "302", "room_name": "MedRooms  264 Rajouri Garden Metro Station 2", "locality": "Rajouri Garden", "region": "Delhi", "price": "2799.0", "ratings": "1"}
+{"ID": "281", "room_id": "20", "room_name": "MedRooms Premium 182 Siri Fort Sports Complex", "locality": "Anand Lok", "region": "Delhi", "price": "4749.0", "ratings": "1"}
+{"ID": "282", "room_id": "320", "room_name": "MedRooms Premium 594 Malviya Nagar A Block", "locality": "Shivalik Road", "region": "Delhi", "price": "3549.0", "ratings": "1"}
+{"ID": "283", "room_id": "275", "room_name": "MedRooms  075 Fortis Vasant Kunj", "locality": "Vasant Kunj", "region": "Delhi", "price": "2049.0", "ratings": "0"}
+{"ID": "284", "room_id": "270", "room_name": "MedRooms  674 Karol Bagh Saraswati Marg 2", "locality": "Karol Bagh, New Delhi", "region": "Delhi", "price": "1499.0", "ratings": "0"}
+{"ID": "285", "room_id": "273", "room_name": "MedRooms  611 Main Bazaar 1575 Paharganj", "locality": "Main Bazar, Paharganj", "region": "Delhi", "price": "1399.0", "ratings": "0"}
+{"ID": "286", "room_id": "214", "room_name": "MedRooms  209 Karol Bagh 13A/22", "locality": "Karol Bagh", "region": "Delhi", "price": "2249.0", "ratings": "0"}
+{"ID": "287", "room_id": "56", "room_name": "MedRooms  272 Delhi English School Sector 21 Dwarka", "locality": "Dwarka Sector 23", "region": "Delhi", "price": "2049.0", "ratings": "0"}
+{"ID": "288", "room_id": "288", "room_name": "MedRooms  040 AIIMS", "locality": "Opposite AIIMS Trauma Centre", "region": "Delhi", "price": "2799.0", "ratings": "0"}
+{"ID": "289", "room_id": "289", "room_name": "MedRooms Premium 473 International Airport Main Road", "locality": "NH8, Mahipalpur", "region": "Delhi", "price": "3299.0", "ratings": "0"}
+{"ID": "290", "room_id": "53", "room_name": "MedRooms  089 Kalkaji", "locality": "Chittaranjan Park", "region": "Delhi", "price": "2749.0", "ratings": "0"}
+{"ID": "291", "room_id": "79", "room_name": "MedRooms Apartments 561 Ramphal Chowk", "locality": "Palam Extension, Sector 7, Near Gold's Gym", "region": "Delhi", "price": "1899.0", "ratings": "0"}
+{"ID": "292", "room_id": "49", "room_name": "MedRooms  602 Chandi Wali Gali Paharganj", "locality": "Near New Delhi Railway Station", "region": "Delhi", "price": "1249.0", "ratings": "0"}
+{"ID": "293", "room_id": "190", "room_name": "MedRooms  351 Saraswati Marg Karol Bagh", "locality": "Saraswati Marg", "region": "Delhi", "price": "1699.0", "ratings": "0"}
+{"ID": "294", "room_id": "89", "room_name": "MedRooms  136 Karol Bagh 5/25", "locality": "Karolbagh", "region": "Delhi", "price": "1599.0", "ratings": "0"}
+{"ID": "295", "room_id": "269", "room_name": "MedRooms Premium 086 Karol Bagh Metro", "locality": "Karol Bagh", "region": "Delhi", "price": "1849.0", "ratings": "0"}
+{"ID": "296", "room_id": "266", "room_name": "MedRooms Homes 460 GK 2 Main Road", "locality": "Greater Kailash II", "region": "Delhi", "price": "2999.0", "ratings": "0"}
+{"ID": "297", "room_id": "298", "room_name": "MedRooms Premium 019 Dwarka Near Airport", "locality": "Aditya Enclave, Dwarka", "region": "Delhi", "price": "2049.0", "ratings": "0"}
+{"ID": "298", "room_id": "265", "room_name": "MedRooms  312 Near New Delhi Railway Station", "locality": "Opp. Shiela Cinema", "region": "Delhi", "price": "1099.0", "ratings": "0"}
+{"ID": "299", "room_id": "160", "room_name": "MedRooms  170 Shadipur Metro Station", "locality": "West Patel Nagar", "region": "Delhi", "price": "2399.0", "ratings": "0"}
+{"ID": "300", "room_id": "307", "room_name": "MedRooms Premium 581 Karol Bag Pusa Road", "locality": "Gurudwara Road, Opposite Jessa Ram Hospital", "region": "Delhi", "price": "4149.0", "ratings": "0"}
+{"ID": "301", "room_id": "191", "room_name": "MedRooms Homes 501 Vasant Kunj Near Fortis", "locality": "Shanti Kunj", "region": "Delhi", "price": "1799.0", "ratings": "0"}
+{"ID": "302", "room_id": "93", "room_name": "MedRooms Premium 672 Paharganj Police Station", "locality": "Street No.1, Multani Dhanda, Paharganj", "region": "Delhi", "price": "1949.0", "ratings": "0"}
+{"ID": "303", "room_id": "67", "room_name": "MedRooms Premium 106 Paharganj", "locality": "Paharganj", "region": "Delhi", "price": "2349.0", "ratings": "0"}
+{"ID": "304", "room_id": "279", "room_name": "MedRooms Homes 310 Shivalik Road Malviya Nagar", "locality": "Near Aurobindo College", "region": "Delhi", "price": "2349.0", "ratings": "0"}
+{"ID": "305", "room_id": "71", "room_name": "MedRooms  111 Paharganj 54", "locality": "Paharganj", "region": "Delhi", "price": "1349.0", "ratings": "0"}
+{"ID": "306", "room_id": "254", "room_name": "MedRooms  217 Lajpat Nagar Market", "locality": "Lajpat Nagar", "region": "Delhi", "price": "3449.0", "ratings": "0"}
+{"ID": "307", "room_id": "143", "room_name": "MedRooms  540 Near Pitampura Metro", "locality": "Dakshini Pitampura", "region": "Delhi", "price": "3499.0", "ratings": "0"}
+{"ID": "308", "room_id": "212", "room_name": "MedRooms  342 Near RK Ashram Metro Station 4", "locality": "Main Bazaar, Main Bazar Road, Paharganj", "region": "Delhi", "price": "1099.0", "ratings": "0"}
+{"ID": "309", "room_id": "188", "room_name": "MedRooms Premium 050 Jasola DAV", "locality": "Jasola", "region": "Delhi", "price": "2299.0", "ratings": "0"}
+{"ID": "310", "room_id": "248", "room_name": "MedRooms  176 Defence Colony A Block", "locality": "Defence colony", "region": "Delhi", "price": "2549.0", "ratings": "0"}
+{"ID": "311", "room_id": "128", "room_name": "MedRooms Premium 608 GK2 M Block Market", "locality": "Ground Floor, Greater Kailash II, Road No. 10, Near M Block Market", "region": "Delhi", "price": "2749.0", "ratings": "0"}
+{"ID": "312", "room_id": "100", "room_name": "MedRooms  173 Paharganj Qutub Road", "locality": "Ram Nagar", "region": "Delhi", "price": "1449.0", "ratings": "0"}
+{"ID": "313", "room_id": "173", "room_name": "MedRooms  145 Paschim Vihar", "locality": "Rohtak Road", "region": "Delhi", "price": "3049.0", "ratings": "0"}
+{"ID": "314", "room_id": "18", "room_name": "MedRooms  171 IGI Airport NH8", "locality": "National Highway 8, Near IGI Domestic Airport, Mahipalpur", "region": "Delhi", "price": "3749.0", "ratings": "0"}
+{"ID": "315", "room_id": "131", "room_name": "MedRooms  091 WEA Karol Bagh", "locality": "Karol Bagh", "region": "Delhi", "price": "1999.0", "ratings": "0"}
+{"ID": "316", "room_id": "174", "room_name": "MedRooms  249 Nehru Place Flyover", "locality": "Greater Kailash 1", "region": "Delhi", "price": "3599.0", "ratings": "0"}
+{"ID": "317", "room_id": "111", "room_name": "MedRooms  610 Green Park Extension", "locality": "Hauz Khas Village", "region": "Delhi", "price": "4999.0", "ratings": "0"}
+{"ID": "318", "room_id": "126", "room_name": "MedRooms  354 GK2 M Block Market", "locality": "E Block,Greater Kailash II", "region": "Delhi", "price": "2749.0", "ratings": "0"}
+{"ID": "319", "room_id": "9", "room_name": "MedRooms Premium 241 Patel Nagar Metro Station", "locality": "East Patel Nagar", "region": "Delhi", "price": "4849.0", "ratings": "0"}
+{"ID": "320", "room_id": "222", "room_name": "MedRooms  255 Karol Bagh Saraswati Marg", "locality": "Karol Bagh", "region": "Delhi", "price": "1249.0", "ratings": "0"}
+{"ID": "321", "room_id": "7", "room_name": "MedRooms  632 Kalkaji Mandir", "locality": "Kalkaji", "region": "Delhi", "price": "1799.0", "ratings": "0"}
+{"ID": "322", "room_id": "223", "room_name": "MedRooms  274 Dwarka Sector 7", "locality": "Ramphal Chowk, Dwarka", "region": "Delhi", "price": "1949.0", "ratings": "0"}
+{"ID": "323", "room_id": "224", "room_name": "MedRooms  445 Saket Metro", "locality": "Saiyad ul Ajaib", "region": "Delhi", "price": "2099.0", "ratings": "0"}
+{"ID": "324", "room_id": "3", "room_name": "MedRooms Flagship 513 Delhi Airport", "locality": "A Block,Mahipalpur Extension", "region": "Delhi", "price": "1999.0", "ratings": "0"}
+{"ID": "325", "room_id": "327", "room_name": "MedRooms  167 Safdarjung Extension", "locality": "Safdarjung", "region": "Delhi", "price": "1599.0", "ratings": "0"}
+{"ID": "326", "room_id": "169", "room_name": "MedRooms  169 Near DPS Vasantkunj", "locality": "Vasant Kunj", "region": "Delhi", "price": "2099.0", "ratings": "0"}
+{"ID": "327", "room_id": "282", "room_name": "MedRooms  306 Karol Bagh 7A/39", "locality": "Channa Market", "region"

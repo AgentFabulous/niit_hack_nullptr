@@ -1,0 +1,7 @@
+sklearn
+numpy
+pandas
+matplotlib
+turicreate
+tensorrec
+scipy

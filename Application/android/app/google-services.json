@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "698443562161",
+    "firebase_url": "https://medroom-3ca22.firebaseio.com",
+    "project_id": "medroom-3ca22",
+    "storage_bucket": "medroom-3ca22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698443562161:android:10c5edb1b51e529f",
+        "android_client_info": {
+          "package_name": "com.example.medrooms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698443562161-qkg756rv018lt5kjlrl97tvp9al2egj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.medrooms",
+            "certificate_hash": "face7e458e1556d63659e42510a4aa07c1fad35c"
+          }
+        },
+        {
+          "client_id": "698443562161-hsgkf5dv8ci557oapflbfcgmu5lkc3q7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxZO8pOgu2owp4r-f3ubYECU2bqyruFWU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698443562161-hsgkf5dv8ci557oapflbfcgmu5lkc3q7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
